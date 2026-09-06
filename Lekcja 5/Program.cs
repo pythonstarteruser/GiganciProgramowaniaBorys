@@ -6,10 +6,11 @@ class Program
     {
         Console.WriteLine("Podaj Swoje Imię:");
         string imie = Console.ReadLine();
-        Console.WriteLine("$ Cześć {imie}!");
+        Console.WriteLine($" Cześć {imie}!");
         Console.WriteLine("Jak się dziś czujesz w skali od 0 do 100");
         int samopoczucie = int.Parse(Console.ReadLine());
         bool czyDobryNastrój = samopoczucie >= 3;
         string komunikat = czyDobryNastrój ? "Cieszę się, że masz dobry nastrój" : "Szkoda, że masz zły nastrój";
+        Console.WriteLine(komunikat);
     }
 }
