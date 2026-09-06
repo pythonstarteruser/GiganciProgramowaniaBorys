@@ -12,5 +12,6 @@ class Program
         // bool czyDobryNastrój = samopoczucie >= 3;
         // string komunikat = czyDobryNastrój ? "Cieszę się, że masz dobry nastrój" : "Szkoda, że masz zły nastrój";
         // Console.WriteLine(komunikat);
+        
     }
 }
