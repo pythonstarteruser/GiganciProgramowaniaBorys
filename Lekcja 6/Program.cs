@@ -23,7 +23,7 @@ class Program
         // if (haslo == wpiszhaslo)
         // {
         //     Console.WriteLine("Zostałeś Poprawnie zalogowany");
-        
+
         // }
         // else
         // {
@@ -42,15 +42,15 @@ class Program
 
         Console.WriteLine($"Twoja średnia końcowa wynosi: {srednia:F2}");
 
-        bool czerwonypasek = srednia >= 4.5 && frekwencja >= 80;
+        bool czerwonypasek = srednia >= 5.0 && frekwencja >= 70;
         string komunikat = czerwonypasek
             ? "Gratulacje! Twoja średnia jest wystarczająca do uzyskania czerwonego paska."
             : "Niestety, Twoja średnia jest za niska do uzyskania czerwonego paska.";
 
         Console.WriteLine(komunikat);
         Console.ReadKey();
-        }
+    }
 
-        }
-    
+}
+
 
