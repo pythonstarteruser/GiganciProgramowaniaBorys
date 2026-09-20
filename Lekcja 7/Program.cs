@@ -9,41 +9,41 @@ class Program
         Console.WriteLine("3. ASCII-art");
         Console.WriteLine("4. Ciekawy fakt");
 
-        int wybor = int.Parse(Console.ReadLine());
+        string wybor = (Console.ReadLine());
 
-        if (wybor == 1)
-        {
-            Console.WriteLine("Dobra robota, młody programisto!");
-        }
-        else if (wybor == 2)
-        {
-            Console.WriteLine("Dziś jest świetny dzień na naukę C#!");
-        }
-        else if (wybor == 3)
-        {
-            Console.WriteLine("(^_^)");
-        }
-        else if (wybor == 4)
-        {
-            Console.WriteLine("Fakt: komputery KOCHAJĄ instrukcje warunkowe!");
-        }
-        else
-        {
-            Console.WriteLine("Błędny wybór");
-        }
+        // if (wybor == 1)
+        // {
+        //     Console.WriteLine("Dobra robota, młody programisto!");
+        // }
+        // else if (wybor == 2)
+        // {
+        //     Console.WriteLine("Dziś jest świetny dzień na naukę C#!");
+        // }
+        // else if (wybor == 3)
+        // {
+        //     Console.WriteLine("(^_^)");
+        // }
+        // else if (wybor == 4)
+        // {
+        //     Console.WriteLine("Fakt: komputery KOCHAJĄ instrukcje warunkowe!");
+        // }
+        // else
+        // {
+        //     Console.WriteLine("Błędny wybór");
+        // }
 
         switch (wybor)
         {
-            case 1:
+            case "jeden":
                 Console.WriteLine("Dobra robota, młody programisto!");
                 break;
-            case 2:
+            case "dwa":
                 Console.WriteLine("Dziś jest świetny dzień na naukę C#!");
                 break;
-            case 3:
+            case "trzy":
                 Console.WriteLine("(^_^)");
                 break;
-            case 4:
+            case "cztery":
                 Console.WriteLine("Fakt: komputery KOCHAJĄ instrukcje warunkowe!");
                 break;
             default:
