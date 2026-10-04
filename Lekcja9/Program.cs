@@ -24,7 +24,12 @@
 
 // }
 // Console.WriteLine("Doszedłęś do mety");
-
+Console.WriteLine("Podaj liczbę: ");
+int n = int.Parse(Console.ReadLine());
+for (int i = 2; i < n; i += 2)
+{
+    Console.WriteLine(i);
+}
 
 
 
