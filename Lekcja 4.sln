@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekcja 6", "Lekcja 6\Lekcja
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekcja 7", "Lekcja 7\Lekcja 7.csproj", "{3DAD70DF-43E2-4D9A-BAC4-84FA33628C64}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekcja9", "Lekcja9\Lekcja9.csproj", "{A7D14D24-7A82-4AEB-B319-AD832158BBB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -97,6 +99,18 @@ Global
 		{3DAD70DF-43E2-4D9A-BAC4-84FA33628C64}.Release|x64.Build.0 = Release|Any CPU
 		{3DAD70DF-43E2-4D9A-BAC4-84FA33628C64}.Release|x86.ActiveCfg = Release|Any CPU
 		{3DAD70DF-43E2-4D9A-BAC4-84FA33628C64}.Release|x86.Build.0 = Release|Any CPU
+		{A7D14D24-7A82-4AEB-B319-AD832158BBB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D14D24-7A82-4AEB-B319-AD832158BBB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D14D24-7A82-4AEB-B319-AD832158BBB9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A7D14D24-7A82-4AEB-B319-AD832158BBB9}.Debug|x64.Build.0 = Debug|Any CPU
+		{A7D14D24-7A82-4AEB-B319-AD832158BBB9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A7D14D24-7A82-4AEB-B319-AD832158BBB9}.Debug|x86.Build.0 = Debug|Any CPU
+		{A7D14D24-7A82-4AEB-B319-AD832158BBB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D14D24-7A82-4AEB-B319-AD832158BBB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7D14D24-7A82-4AEB-B319-AD832158BBB9}.Release|x64.ActiveCfg = Release|Any CPU
+		{A7D14D24-7A82-4AEB-B319-AD832158BBB9}.Release|x64.Build.0 = Release|Any CPU
+		{A7D14D24-7A82-4AEB-B319-AD832158BBB9}.Release|x86.ActiveCfg = Release|Any CPU
+		{A7D14D24-7A82-4AEB-B319-AD832158BBB9}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
