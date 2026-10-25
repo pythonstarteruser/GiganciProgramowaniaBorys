@@ -1,0 +1,15 @@
+C:\Users\borys\Desktop\C#\lekcja12\bin\Debug\net10.0\lekcja12.exe
+C:\Users\borys\Desktop\C#\lekcja12\bin\Debug\net10.0\lekcja12.deps.json
+C:\Users\borys\Desktop\C#\lekcja12\bin\Debug\net10.0\lekcja12.runtimeconfig.json
+C:\Users\borys\Desktop\C#\lekcja12\bin\Debug\net10.0\lekcja12.dll
+C:\Users\borys\Desktop\C#\lekcja12\bin\Debug\net10.0\lekcja12.pdb
+C:\Users\borys\Desktop\C#\lekcja12\obj\Debug\net10.0\lekcja12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borys\Desktop\C#\lekcja12\obj\Debug\net10.0\lekcja12.AssemblyInfoInputs.cache
+C:\Users\borys\Desktop\C#\lekcja12\obj\Debug\net10.0\lekcja12.AssemblyInfo.cs
+C:\Users\borys\Desktop\C#\lekcja12\obj\Debug\net10.0\lekcja12.csproj.CoreCompileInputs.cache
+C:\Users\borys\Desktop\C#\lekcja12\obj\Debug\net10.0\lekcja12.sourcelink.json
+C:\Users\borys\Desktop\C#\lekcja12\obj\Debug\net10.0\lekcja12.dll
+C:\Users\borys\Desktop\C#\lekcja12\obj\Debug\net10.0\refint\lekcja12.dll
+C:\Users\borys\Desktop\C#\lekcja12\obj\Debug\net10.0\lekcja12.pdb
+C:\Users\borys\Desktop\C#\lekcja12\obj\Debug\net10.0\lekcja12.genruntimeconfig.cache
+C:\Users\borys\Desktop\C#\lekcja12\obj\Debug\net10.0\ref\lekcja12.dll
