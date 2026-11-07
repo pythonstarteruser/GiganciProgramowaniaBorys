@@ -23,19 +23,33 @@ class Program
         Console.WriteLine($"Mana: {manaPercent}% ({currentMana} / {maxMana})");
         Console.WriteLine($"Doświadczenie: {doswiadczenie}, poziom: {levelDoswiadczenia}");
         Console.WriteLine($"Inteligencja: {inteligencja}");
+        Console.WriteLine($"Mana wynosi teraz {manaPercent}%");
     }
-
+    static void Attack()
+    {
+        Console.WriteLine("Podstawowy Atak");
+    }
+    static void Attack(string nick)
+    {
+        Console.WriteLine($"Atak wykonał {nick}");
+    }
+    static void Attack(int sila)
+    {
+        Console.WriteLine($"Atak o sile {sila}");
+    }
     static void Main(string[] args)
     {
         string nick = "TechnologyGuy";
-        int maxHp = 100;
-        int currentHp = 100;
-        string doswiadczenie = "Programowanie";
-        int levelDoswiadczenia = 10;
-        int inteligencja = 130;
-        int maxMana = 1000;
-        int currentMana = 900;
-
-        CharacterInfo(nick, currentHp, maxHp, doswiadczenie, levelDoswiadczenia, inteligencja, currentMana, maxMana);
+        // int maxHp = 100;
+        // int currentHp = 100;
+        // string doswiadczenie = "Programowanie";
+        // int levelDoswiadczenia = 10;
+        // int inteligencja = 130;
+        // int maxMana = 1000;
+        // int currentMana = 900;
+        Attack();
+        Attack($"{nick}");
+        Attack("100");
+        // CharacterInfo(nick, currentHp, maxHp, doswiadczenie, levelDoswiadczenia, inteligencja, currentMana, maxMana);
     }
 }
