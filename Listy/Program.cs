@@ -15,7 +15,7 @@ class Program
         string[] items = { "Hi-Fi", "Router", "Monitor", "Laptop" };
         List<string> inventory = new List<string>();
         AddItem(inventory, items, 2);
-
+        PrintList("Ekwipunek Gracza", inventory);
 
     }
     static void AddItem(List<string> inventory, string[] items, int index)
@@ -34,6 +34,9 @@ class Program
     static void PrintList(string header, List<string> list)
     {
         Console.WriteLine("\n=== " + header + " ===");
-        foreach (var item in
+        foreach (var item in list)
+        {
+            Console.WriteLine(item);
+        }
     }
 }
