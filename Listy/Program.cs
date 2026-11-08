@@ -39,4 +39,8 @@ class Program
             Console.WriteLine(item);
         }
     }
+    static bool IsInventoryFull(List<string> inventory, int maxSize)
+    {
+        return inventory.Count > maxSize;
+    }
 }
