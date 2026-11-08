@@ -12,5 +12,28 @@ class Program
         // {
         //     Console.WriteLine(item);
         // }
+        string[] items = { "Hi-Fi", "Router", "Monitor", "Laptop" };
+        List<string> inventory = new List<string>();
+        AddItem(inventory, items, 2);
+
+
+    }
+    static void AddItem(List<string> inventory, string[] items, int index)
+    {
+        if (index < 0 || index >= items.Length)
+        {
+            Console.WriteLine("Nieprawidłowy indeks przedmiotu!");
+            return;
+        }
+
+
+        string item = items[index];
+        inventory.Add(item);
+        Console.WriteLine($"Dodano do ekwipunku: {item}");
+    }
+    static void PrintList(string header, List<string> list)
+    {
+        Console.WriteLine("\n=== " + header + " ===");
+        foreach (var item in
     }
 }
