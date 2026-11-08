@@ -1,0 +1,15 @@
+C:\Users\borys\Desktop\C#\Odrabianie\bin\Release\net10.0\Odrabianie.exe
+C:\Users\borys\Desktop\C#\Odrabianie\bin\Release\net10.0\Odrabianie.deps.json
+C:\Users\borys\Desktop\C#\Odrabianie\bin\Release\net10.0\Odrabianie.runtimeconfig.json
+C:\Users\borys\Desktop\C#\Odrabianie\bin\Release\net10.0\Odrabianie.dll
+C:\Users\borys\Desktop\C#\Odrabianie\bin\Release\net10.0\Odrabianie.pdb
+C:\Users\borys\Desktop\C#\Odrabianie\obj\Release\net10.0\Odrabianie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borys\Desktop\C#\Odrabianie\obj\Release\net10.0\Odrabianie.AssemblyInfoInputs.cache
+C:\Users\borys\Desktop\C#\Odrabianie\obj\Release\net10.0\Odrabianie.AssemblyInfo.cs
+C:\Users\borys\Desktop\C#\Odrabianie\obj\Release\net10.0\Odrabianie.csproj.CoreCompileInputs.cache
+C:\Users\borys\Desktop\C#\Odrabianie\obj\Release\net10.0\Odrabianie.sourcelink.json
+C:\Users\borys\Desktop\C#\Odrabianie\obj\Release\net10.0\Odrabianie.dll
+C:\Users\borys\Desktop\C#\Odrabianie\obj\Release\net10.0\refint\Odrabianie.dll
+C:\Users\borys\Desktop\C#\Odrabianie\obj\Release\net10.0\Odrabianie.pdb
+C:\Users\borys\Desktop\C#\Odrabianie\obj\Release\net10.0\Odrabianie.genruntimeconfig.cache
+C:\Users\borys\Desktop\C#\Odrabianie\obj\Release\net10.0\ref\Odrabianie.dll

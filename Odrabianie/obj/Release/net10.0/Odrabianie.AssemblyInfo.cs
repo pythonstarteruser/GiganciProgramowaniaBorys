@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Odrabianie")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+062ddb50bb7772e17f38317c63e1da33f93f57b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2d1faafa33290d0c48e5298ab52848b9894db78")]
 [assembly: System.Reflection.AssemblyProductAttribute("Odrabianie")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Odrabianie")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
